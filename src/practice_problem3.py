@@ -32,9 +32,9 @@ import rosegraphics as rg
 
 def main():
     """ Calls the   TEST   functions in this module. """
-    run_test_practice_problem3a()
+    #run_test_practice_problem3a()
     #run_test_practice_problem3b()
-    #run_test_practice_problem3c()
+    run_test_practice_problem3c()
     #run_test_practice_problem3d()
     #run_test_practice_problem3e()
 
